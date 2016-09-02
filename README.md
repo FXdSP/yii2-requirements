@@ -42,9 +42,29 @@ or add
 
 to the require section of your `composer.json` file.
 
+Migration
+
+-----
 
 
 
+You'll found migration for `MySQL` in `fxdsp/yii2-requirements/migrations`
+
+Copy paste migrations in you own migrations project folder and run 
+
+```
+
+php yii migrate
+
+```
+
+Or run directly migrate command with specific `--migrationPath` option
+
+```
+
+php yii migrate --migrationPath=app\vendor\fxdsp\yii2-requirements\migrations
+
+```
 
 Usage
 
