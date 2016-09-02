@@ -1,0 +1,41 @@
+{
+
+    "name": "fxdsp/yii2-requirements",
+
+    "description": "An extension to manage requirements in an yii2 project",
+
+    "type": "yii2-extension",
+
+    "keywords": ["yii2","extension"," requirements"," management"],
+
+    "license": "BSD-4-Clause",
+
+    "authors": [
+
+        {
+
+            "name": "FX",
+
+            "email": "fxdesaintpern@gmail.com"
+
+        }
+
+    ],
+
+    "require": {
+
+        "yiisoft/yii2": "*"
+
+    },
+
+    "autoload": {
+
+        "psr-4": {
+
+            "fxdsp\\requirements\\": ""
+
+        }
+
+    }
+
+}
