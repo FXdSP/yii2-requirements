@@ -4,9 +4,9 @@
 
     "description": "An extension to manage requirements in an yii2 project",
 
-    "type": "yii2-extension",
+    "type": "yii2-module",
 
-    "keywords": ["yii2","extension"," requirements"," management"],
+    "keywords": ["yii2","module"," requirements"," management"],
 
     "license": "GNU GENERAL PUBLIC LICENSE",
 

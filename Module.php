@@ -1,11 +1,11 @@
 <?php
 
-namespace fxdsp\models;
+namespace fxdsp;
 
 /**
  * requirements module definition class
  */
-class Requirements extends \yii\base\Module
+class Module extends \yii\base\Module
 {
     /**
      * @inheritdoc
